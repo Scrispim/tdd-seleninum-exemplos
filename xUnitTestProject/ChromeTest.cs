@@ -32,7 +32,7 @@ namespace xUnitTestProject
             List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
             foreach (IWebElement element in options)
             {
-                if (element.Text.Equals("Adição"))
+                if (element.Text.Equals("Addition"))
                 {
                     element.Click();
                     break;
@@ -58,7 +58,7 @@ namespace xUnitTestProject
             List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
             foreach (IWebElement element in options)
             {
-                if (element.Text.Equals("Subtração"))
+                if (element.Text.Equals("Subtraction"))
                 {
                     element.Click();
                     break;
@@ -84,7 +84,7 @@ namespace xUnitTestProject
             List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
             foreach (IWebElement element in options)
             {
-                if (element.Text.Equals("Multiplicação"))
+                if (element.Text.Equals("Multiplication"))
                 {
                     element.Click();
                     break;
@@ -110,7 +110,7 @@ namespace xUnitTestProject
             List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
             foreach (IWebElement element in options)
             {
-                if (element.Text.Equals("Divisão"))
+                if (element.Text.Equals("Division"))
                 {
                     element.Click();
                     break;
