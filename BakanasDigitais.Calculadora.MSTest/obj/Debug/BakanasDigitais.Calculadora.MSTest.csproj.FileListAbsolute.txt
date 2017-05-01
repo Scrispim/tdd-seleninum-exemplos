@@ -1,0 +1,7 @@
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\bin\Debug\BakanasDigitais.Calculadora.MSTest.dll
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\bin\Debug\BakanasDigitais.Calculadora.MSTest.pdb
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\bin\Debug\BakanasDigitais.Calculadora.Util.dll
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\bin\Debug\BakanasDigitais.Calculadora.Util.pdb
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\obj\Debug\BakanasDigitais.Calculadora.MSTest.csprojResolveAssemblyReference.cache
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\obj\Debug\BakanasDigitais.Calculadora.MSTest.dll
+c:\users\sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.MSTest\obj\Debug\BakanasDigitais.Calculadora.MSTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\BakanasDigitais.Calculadora.NUnit.dll
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\BakanasDigitais.Calculadora.NUnit.pdb
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\BakanasDigitais.Calculadora.Util.dll
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\nunit.framework.dll
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\BakanasDigitais.Calculadora.Util.pdb
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\bin\Debug\nunit.framework.xml
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\obj\Debug\BakanasDigitais.Calculadora.NUnit.csprojResolveAssemblyReference.cache
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\obj\Debug\BakanasDigitais.Calculadora.NUnit.dll
+C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.NUnit\obj\Debug\BakanasDigitais.Calculadora.NUnit.pdb
