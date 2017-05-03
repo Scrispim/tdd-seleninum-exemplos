@@ -18,3 +18,22 @@ C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculador
 C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\xUnitTestProject\bin\Debug\chromedriver.exe
 C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\xUnitTestProject\bin\Debug\WebDriver.dll
 C:\Users\Sander\documents\visual studio 2013\Projects\BakanasDigitais.Calculadora\xUnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.abstractions.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\chromedriver.exe
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xUnitTestProject.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xUnitTestProject.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\BakanasDigitais.Calculadora.Util.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\WebDriver.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.assert.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.core.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\BakanasDigitais.Calculadora.Util.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.assert.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.assert.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.core.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\bin\Debug\xunit.core.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\obj\Debug\xUnitTestProject.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\xUnitTestProject\obj\Debug\xUnitTestProject.pdb

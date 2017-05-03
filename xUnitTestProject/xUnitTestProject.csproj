@@ -75,6 +75,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ChromeTest.cs" />
+    <Compile Include="Constantes.cs" />
     <Compile Include="DivisaoTest.cs" />
     <Compile Include="MultiplicacaoTest.cs" />
     <Compile Include="TestClaculadora.cs" />

@@ -15,3 +15,20 @@ C:\Users\Sander\Documents\Visual Studio 2013\Projects\BakanasDigitais.Calculador
 C:\Users\Sander\Documents\Visual Studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.core.xml
 C:\Users\Sander\Documents\Visual Studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 C:\Users\Sander\Documents\Visual Studio 2013\Projects\BakanasDigitais.Calculadora\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.abstractions.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\BakanasDigitais.Calculadora.Util.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\BakanasDigitais.Calculadora.Util.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\nunit.framework.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.assert.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.core.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\nunit.framework.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.assert.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.assert.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.core.pdb
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\bin\Debug\xunit.core.xml
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\obj\Debug\BakanasDigitais.Calculadora.Util.csprojResolveAssemblyReference.cache
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\obj\Debug\BakanasDigitais.Calculadora.Util.dll
+C:\Users\Sander\Documents\GitHub\tdd-seleninum-exemplos\BakanasDigitais.Calculadora.Util\obj\Debug\BakanasDigitais.Calculadora.Util.pdb

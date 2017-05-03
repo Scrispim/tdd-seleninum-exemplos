@@ -22,105 +22,50 @@ namespace xUnitTestProject
         [Fact]
         public void Soma()
         {
-            _driver.Navigate().GoToUrl(urlIndex);
-            IWebElement txtPrimeiroNumero = _driver.FindElement(By.Name("PrimeiroNumero"));
-            txtPrimeiroNumero.SendKeys("2");
-
-            IWebElement txtSegundoNumero = _driver.FindElement(By.Name("SegundoNumero"));
-            txtSegundoNumero.SendKeys("2");
-
-            List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
-            foreach (IWebElement element in options)
-            {
-                if (element.Text.Equals("Addition"))
-                {
-                    element.Click();
-                    break;
-                }
-            }
-
-            IWebElement btnCalcular = _driver.FindElement(By.Name("btnCalcular"));
-            btnCalcular.Click();
-
-            Assert.Equal("4", _driver.FindElement(By.Name("Resultado")).GetAttribute("value").ToString());
+            RealizaOperacao(p_PrimeiroValor: 2, p_SegundoValor: 2, p_Opcao: "Addition", p_Resultado: 4);
         }
 
         [Fact]
         public void Subtracao()
         {
-            _driver.Navigate().GoToUrl(urlIndex);
-            IWebElement txtPrimeiroNumero = _driver.FindElement(By.Name("PrimeiroNumero"));
-            txtPrimeiroNumero.SendKeys("3");
-
-            IWebElement txtSegundoNumero = _driver.FindElement(By.Name("SegundoNumero"));
-            txtSegundoNumero.SendKeys("2");
-
-            List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
-            foreach (IWebElement element in options)
-            {
-                if (element.Text.Equals("Subtraction"))
-                {
-                    element.Click();
-                    break;
-                }
-            }
-
-            IWebElement btnCalcular = _driver.FindElement(By.Name("btnCalcular"));
-            btnCalcular.Click();
-
-            Assert.Equal("1", _driver.FindElement(By.Name("Resultado")).GetAttribute("value").ToString());
+            RealizaOperacao(p_PrimeiroValor: 3, p_SegundoValor: 2, p_Opcao: "Subtraction", p_Resultado: 1);
         }
 
         [Fact]
         public void Multiplicacao()
         {
-            _driver.Navigate().GoToUrl(urlIndex);
-            IWebElement txtPrimeiroNumero = _driver.FindElement(By.Name("PrimeiroNumero"));
-            txtPrimeiroNumero.SendKeys("3");
-
-            IWebElement txtSegundoNumero = _driver.FindElement(By.Name("SegundoNumero"));
-            txtSegundoNumero.SendKeys("2");
-
-            List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
-            foreach (IWebElement element in options)
-            {
-                if (element.Text.Equals("Multiplication"))
-                {
-                    element.Click();
-                    break;
-                }
-            }
-
-            IWebElement btnCalcular = _driver.FindElement(By.Name("btnCalcular"));
-            btnCalcular.Click();
-
-            Assert.Equal("6", _driver.FindElement(By.Name("Resultado")).GetAttribute("value").ToString());
+            RealizaOperacao(p_PrimeiroValor: 3, p_SegundoValor: 2, p_Opcao: "Multiplication", p_Resultado: 6);
         }
 
         [Fact]
         public void Divisao()
         {
+            RealizaOperacao(p_PrimeiroValor: 10, p_SegundoValor: 2, p_Opcao: "Division", p_Resultado: 5);
+        }
+
+        protected void RealizaOperacao(int p_PrimeiroValor, int p_SegundoValor, string p_Opcao, int p_Resultado)
+        {
             _driver.Navigate().GoToUrl(urlIndex);
-            IWebElement txtPrimeiroNumero = _driver.FindElement(By.Name("PrimeiroNumero"));
-            txtPrimeiroNumero.SendKeys("10");
+            IWebElement txtPrimeiroNumero = _driver.FindElement(By.Name(Constantes.Label.PRIMEIRO_NUMERO));
+            txtPrimeiroNumero.SendKeys(p_PrimeiroValor.ToString());
 
-            IWebElement txtSegundoNumero = _driver.FindElement(By.Name("SegundoNumero"));
-            txtSegundoNumero.SendKeys("2");
+            IWebElement txtSegundoNumero = _driver.FindElement(By.Name(Constantes.Label.SEGUNDOO_NUMERO));
+            txtSegundoNumero.SendKeys(p_SegundoValor.ToString());
 
-            List<IWebElement> options = _driver.FindElements(By.Name("option")).ToList();
+            List<IWebElement> options = _driver.FindElements(By.TagName(Constantes.Label.OPCAO)).ToList();
             foreach (IWebElement element in options)
             {
-                if (element.Text.Equals("Division"))
+                if (element.Text.Equals(p_Opcao))
                 {
                     element.Click();
                     break;
                 }
             }
 
-            IWebElement btnCalcular = _driver.FindElement(By.Name("btnCalcular"));
+            IWebElement btnCalcular = _driver.FindElement(By.Name(Constantes.Label.BTN_CALCULAR));
             btnCalcular.Click();
 
-            Assert.Equal("5", _driver.FindElement(By.Name("Resultado")).GetAttribute("value").ToString());
+            Assert.Equal(p_Resultado.ToString() , _driver.FindElement(By.Name(Constantes.Label.RESULTADO)).GetAttribute(Constantes.Label.VALUE).ToString());
         }
 
         public void Dispose()
